@@ -12,7 +12,7 @@ Projeto de template de reembolso desenvolvido durante as aulas de JavaScript na 
   <a href="#memo-licença">Licença</a>
 </p>
 
-<!-- [🔗 Clique aqui para acessar](http://natanjalmeida99.github.io/News/) -->
+[🔗 Clique aqui para acessar](https://natanjalmeida99.github.io/Refund-template/)
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
